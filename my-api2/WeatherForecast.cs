@@ -14,5 +14,4 @@ public class WeatherForecast
 
     public string Something3 { get; set; }
 
-    public string Something4 { get; set; }
 }
