@@ -11,4 +11,10 @@ public class WeatherForecast
     public string? Summary { get; set; }
 
     public int Something { get; set; }
+
+    public string Something2 { get; set; }
+
+    public string Something3 { get; set; }
+
+    public string Something4 { get; set; }
 }
